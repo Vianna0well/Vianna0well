@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying System Analysis and Development at IMPACTA.\
-🌱 &nbsp;I'm on track for learning more about Oracle Netsuite and Javascript.\
+🎓 &nbsp;I have a degree in System Analysis and Development at IMPACTA.\
+🌱 &nbsp;I'm on track for learning more about Oracle Netsuite.\
 ✉️ &nbsp;You can shoot me an email at vianna8523@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
@@ -22,7 +22,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
